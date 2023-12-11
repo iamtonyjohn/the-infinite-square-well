@@ -1,4 +1,5 @@
 DEFINITION
+
 In quantum mechanics, the particle in a box model (alsoknown as the infinite potential well or the infinite squarewell) describes a particle free to move in a small spacesurrounded by
 impenetrable barriers. The model is mainly used as a hypothetical example to illustrate thedifferences between classical and quantum systems. Inclassical systems, for example, a particle 
 trapped inside a large box can move at any speed within the box and it is no more likely to be found at one position than another. However, when the well becomes very narrow(on the scale of a 
